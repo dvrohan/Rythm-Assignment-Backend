@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/rohan/Documents/Rythm Recon/Assignment/backend/rythm_assignment_venv/bin/python3.8",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
